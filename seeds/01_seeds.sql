@@ -8,7 +8,7 @@ VALUES (1, 'ABC properties', 'description', 'a.com', 'b.com', 100, 5, 2, 2, 'Can
 (2, 'BAC properties', 'description', 'c.com', 'd.com', 1000, 2, 1, 1, 'Canada', '2 Stone Street', 'Toronto', 'ON', 'YYYYYY', FALSE),
 (3, 'CBC properties', 'description', 'e.com', 'f.com', 1100, 1, 5, 6, 'Canada', '3 Stone Street', 'Toronto', 'ON', 'UUUUUU', TRUE);
 
-INSERT INTO reservations(start_date, end_date, property_id, guest_id)
+INSERT INTO resqervations(start_date, end_date, property_id, guest_id)
 VALUES('2023-10-10', '2023-10-11', 1, 1),
 ('2022-10-10', '2022-10-12', 2, 2),
 ('2021-10-01', '2021-10-05', 3, 3);
