@@ -18,4 +18,5 @@ LightBnb was mainly created with PostgreSQL and also uses Express.js, Javascript
 
 ## Running PSQL
 Login to psql and enter the following command: psql -h localhost -p 5432 -U vagrant lightbnb
+
 enter the password: 123
